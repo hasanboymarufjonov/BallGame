@@ -105,7 +105,7 @@ def main(rang0, rang1, rang2, rang3, rang4):
 	ramka1.goto(-145, 280)
 	ramka1.color("white")
 	
-	funk9("""\" + \" va \" - \"    ->  Change speed""", -295, 300)
+	funk9("""\" + \" and \" - \"    ->  Change speed""", -295, 300)
 	funk9("""\" O \"    ->  Change color or restart """, -295, 250)
 
 
